@@ -1,1 +1,1 @@
-a script that changes the current user to another, only 8 characters are permitted
+A script that prints the effective user name of the current user
