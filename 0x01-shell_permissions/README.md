@@ -1,1 +1,1 @@
-A script that add execute permissions of subdirectories in the current directory for users such as owner, group owner and all other users
+Create a directory with permission 751 in the working directory
