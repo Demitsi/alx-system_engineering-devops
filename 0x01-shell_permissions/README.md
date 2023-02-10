@@ -1,1 +1,1 @@
-A script that adds execute permissions to the owner and group onwer and read permissions to other users
+A scriot that adds execution permission to the owner, group owner and other users to the file
