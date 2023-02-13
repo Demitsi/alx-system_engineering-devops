@@ -1,1 +1,1 @@
-A script that display the 3rd line of the file
+Write a script that creats a file, with text ending by a new line
