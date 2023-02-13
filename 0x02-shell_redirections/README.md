@@ -1,1 +1,1 @@
-A script that display 10 newest files witin the current directory
+A script that takes a list of words as input and prints only words that appear exactly once
