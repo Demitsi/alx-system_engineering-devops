@@ -1,1 +1,1 @@
-Write a script that creats a file, with text ending by a new line
+Write a script that write into a certain filethe results of a certain command. If the file exists then it should be overwritten if not then it should be created
