@@ -1,1 +1,1 @@
-Display lines that contain the pattern root of a file
+Display the number of lines that contain the pattern bin in them
