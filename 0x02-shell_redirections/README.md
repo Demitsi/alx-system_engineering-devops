@@ -1,1 +1,1 @@
-Create a script that removes certain lowercase and uppercase letters
+A script that reverses its imput
