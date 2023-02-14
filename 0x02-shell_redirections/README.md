@@ -1,1 +1,1 @@
-A script that reverses its imput
+A script that display all users and their home directories sorted by user
