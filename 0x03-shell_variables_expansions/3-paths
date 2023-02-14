@@ -1,0 +1,2 @@
+#!/bin/bash
+count "./PATH" -type d | wc -l 
