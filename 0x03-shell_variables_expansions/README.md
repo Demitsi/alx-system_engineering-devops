@@ -1,1 +1,1 @@
- A scripts that prints all possible combinations of two letters
+Write a script that prints a number followed by two decimal places
