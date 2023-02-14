@@ -1,1 +1,1 @@
-Replace all mentioned characters with required new ones
+Create a script that removes certain lowercase and uppercase letters
