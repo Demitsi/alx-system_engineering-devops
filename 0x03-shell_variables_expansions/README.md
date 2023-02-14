@@ -1,1 +1,1 @@
-A script that converts base numbers
+ A scripts that prints all possible combinations of two letters
