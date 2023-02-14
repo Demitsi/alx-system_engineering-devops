@@ -1,2 +1,2 @@
 #!/bin/bash
-export ((`TRUEKNOWLEDGE="128" | cat -e' +1))
+echo "$TRUEKNOWLEDGE ((1209+128)) $env | cat -e"
