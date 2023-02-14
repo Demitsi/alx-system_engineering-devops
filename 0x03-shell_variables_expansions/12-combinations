@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {aa..zz}{aa..zz} | tr ' ' '\n' | grep -v ee
+echo {aa..zz} | tr ' ' '\n' | grep -v ee
