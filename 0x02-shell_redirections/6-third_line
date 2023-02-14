@@ -1,2 +1,2 @@
-#!bin/bash
-head 3 alx-system_engineering-devops/iacta
+#!/bin/bash
+head -n 3 iacta | tail -n 1 
